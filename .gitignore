@@ -1,0 +1,8 @@
+node_modules/
+.wrangler/
+.dev.vars
+*.log
+.DS_Store
+
+# Docker 部署的 key 文件（docker/.env，见 docker/.env.example）
+.env
